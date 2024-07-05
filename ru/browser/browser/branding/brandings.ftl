@@ -38,13 +38,13 @@
 # and kept in English.
 -firefox-home-brand-name =
     { $case ->
-       *[nominative] Домашняя страница Firefox
-        [genitive] Домашней страницы Firefox
-        [dative] Домашнюю страницу Firefox
-        [accusative] Домашнюю страницу Firefox
-        [instrumental] Домашней страницей Firefox
-        [prepositional] Домашней странице Firefox
+       *[nominative] Домашняя страница Floorp
+        [genitive] Домашней страницы Floorp
+        [dative] Домашнюю страницу Floorp
+        [accusative] Домашнюю страницу Floorp
+        [instrumental] Домашней страницей Floorp
+        [prepositional] Домашней странице Floorp
     }
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxview-brand-name = Обзор Firefox
+-firefoxview-brand-name = Обзор Floorp
